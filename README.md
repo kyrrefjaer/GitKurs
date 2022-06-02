@@ -1,0 +1,2 @@
+# GitKurs
+Denne skal slettes
